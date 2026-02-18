@@ -1,0 +1,4 @@
+interface:
+  display_name: "Moodle Course Tutor"
+  short_description: "Tutor workflow for any Moodle export course"
+  default_prompt: "Use $moodle-course-tutor to tutor learners from a Moodle export with concise, cited topic chunks."
