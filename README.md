@@ -86,3 +86,9 @@ Behavioral and maintenance rules are defined in:
 - `references/repo-map.md`
 - `references/tutor-response-contract.md`
 - `references/maintenance-checklist.md`
+
+## Co-Funded by the European Union
+
+Early versions of the instructions within this skill where created within the USAGE-NG Project with the support of the Erasmus+ Programme of the European Union: 2022-1-AT01-KA220-HED-000089504.
+
+The European Commission's support for the production of this publication does not constitute an endorsement of the contents, which reflect the views only of the authors, and the Commission cannot be held responsible for any use which may be made of the information contained therein.
